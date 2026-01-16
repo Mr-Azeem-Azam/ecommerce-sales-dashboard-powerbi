@@ -114,6 +114,19 @@ This dashboard enables decision-makers to:
 ![Revenue & Sales Trends](Screenshots/Revenue%20%26%20Sales%20Trends.JPG)
 
 
+## 📸 Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](Screenshots/Executive%20Overview.JPG)
+
+### Product Performance Analysis
+![Product Performance Analysis](Screenshots/Product%20Performance%20Analysis.JPG)
+
+### Revenue & Sales Trends
+![Revenue & Sales Trends](Screenshots/Revenue%20%26%20Sales%20Trends.JPG)
+
+
+
 
 ## 📚 Author
 **Muhammad Azeem**  
