@@ -89,52 +89,21 @@ This dashboard enables decision-makers to:
 
 ---
 
-## 📸 Dashboard Preview
-
-### 🖼️ Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
-
-### 🖼️ Product Performance Analysis
-![Product Performance Analysis](Screenshots/Product_Performance_Analysis.png)
-
-### 🖼️ Revenue & Sales Trends
-![Revenue & Sales Trends](Screenshots/Revenue_Sales_Trends.png)
-
----
-
-## 📸 Dashboard Screenshots
-
-### 🖼️ Executive Overview
-![Executive Overview](Screenshots/Executive%20Overview.JPG)
-
-### 🖼️ Product Performance Analysis
-![Product Performance Analysis](Screenshots/Product%20Performance%20Analysis.JPG)
-
-### 🖼️ Revenue & Sales Trends
-![Revenue & Sales Trends](Screenshots/Revenue%20%26%20Sales%20Trends.JPG)
-
-
 ## 📸 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Ecommerce_Sales_Analysis/Screenshots/Executive%20Overview.JPG)
 
-### Product Performance Analysis
-![Product Performance Analysis](Ecommerce_Sales_Analysis/Screenshots/Product%20Performance%20Analysis.JPG)
-
-### Revenue & Sales Trends
-![Revenue & Sales Trends](Ecommerce_Sales_Analysis/Screenshots/Revenue%20%26%20Sales%20Trends.JPG)
-
-## 📸 Dashboard Screenshots
-
-### Executive Overview
 ![Executive Overview](E-Commerce-Sales-Dashboard/Screenshots/Executive%20Overview.JPG)
 
 ### Product Performance Analysis
+
 ![Product Performance Analysis](E-Commerce-Sales-Dashboard/Screenshots/Product%20Performance%20Analysis.JPG)
 
 ### Revenue & Sales Trends
+
 ![Revenue & Sales Trends](E-Commerce-Sales-Dashboard/Screenshots/Revenue%20%26%20Sales%20Trends.JPG)
+
+---
 
 
 
