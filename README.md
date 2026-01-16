@@ -117,13 +117,14 @@ This dashboard enables decision-makers to:
 ## 📸 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Screenshots/Executive%20Overview.JPG)
+![Executive Overview](Ecommerce_Sales_Analysis/Screenshots/Executive%20Overview.JPG)
 
 ### Product Performance Analysis
-![Product Performance Analysis](Screenshots/Product%20Performance%20Analysis.JPG)
+![Product Performance Analysis](Ecommerce_Sales_Analysis/Screenshots/Product%20Performance%20Analysis.JPG)
 
 ### Revenue & Sales Trends
-![Revenue & Sales Trends](Screenshots/Revenue%20%26%20Sales%20Trends.JPG)
+![Revenue & Sales Trends](Ecommerce_Sales_Analysis/Screenshots/Revenue%20%26%20Sales%20Trends.JPG)
+
 
 
 
